@@ -1,0 +1,19 @@
+body {
+    background-color:#81ecec;
+}
+div {
+    background-color: whitesmoke;
+    width: 600px;
+    border-radius: 30px;
+}
+h1 {
+    font-family: 'Aclonica';
+}
+p {
+    font-size: 20px;
+    color:red;
+    font-weight: bold;
+}
+#word {
+    width: 500px;
+}
